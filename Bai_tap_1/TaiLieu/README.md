@@ -19,3 +19,5 @@ Tôi tin rằng trong **tương lai**, lập trình di động sẽ tiếp tục
 ## 3. Viết một ứng dụng có UI như trong đề.
 Ứng dụng phát triển cho nền tảng Android.
 
+### Hình ảnh ứng dụng:
+![image](https://github.com/user-attachments/assets/eaeb378c-5c15-4417-87b4-71be167cf5fe)
