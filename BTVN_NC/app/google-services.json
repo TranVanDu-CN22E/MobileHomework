@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "664620219848",
+    "project_id": "uthsmart-cf702",
+    "storage_bucket": "uthsmart-cf702.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664620219848:android:af423476ea13844885d4fd",
+        "android_client_info": {
+          "package_name": "com.example.btvn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664620219848-mib40896495inkc41s06q38ak2154rde.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.btvn",
+            "certificate_hash": "72604a52e510c7294c3c38fa95cbde240142c2ab"
+          }
+        },
+        {
+          "client_id": "664620219848-8c753p40ek1g7tv3miadbapuo9m91acs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZURMKQPMo7f-DHECzKF55iY7lcKdfSwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664620219848-8c753p40ek1g7tv3miadbapuo9m91acs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
